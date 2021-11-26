@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Svetlin.
+- 👀 I’m interested in journalism, data journalism data visualizations, marketing, history, photography and much more.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on opensource projeccts. 
